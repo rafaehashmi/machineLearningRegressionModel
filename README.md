@@ -1,4 +1,4 @@
-"# Machine-Learning-Model--Price_Regression" 
+# machineLearningRegressionModel 
 
 In this project, we're going to use machine learning to predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers.
 
